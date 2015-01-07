@@ -13,4 +13,4 @@ echo '  res.writeHead(200, {"Content-Type": "text/plain"});'>> index.js
 echo '  res.end("Hello World\n");'>> index.js
 echo '}).listen(8080);'>> index.js
 echo 'console.log("Server running at http://:8080/");'>> index.js
-nodejs index.js
+#nodejs index.js
